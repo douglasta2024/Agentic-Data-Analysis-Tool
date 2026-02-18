@@ -5,7 +5,7 @@ Streamlit app that runs a small, routed agent pipeline to analyze a CSV from two
 - Data Scientist: statistical depth (quality checks, EDA, time-series diagnostics when applicable)
 - Business Analyst: visual-first KPIs and plain-English takeaways (with optional Gemini-powered insights)
 
-![Example Image](images/example.png)
+![Example Image](images/example.jpg)
 
 ## Quickstart
 
